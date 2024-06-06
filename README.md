@@ -1,5 +1,3 @@
-# threading-protocols
-
 
 # 🏷️ Project Name
 
